@@ -1,0 +1,6 @@
+.gradle
+.DS_Store
+YouTubeDirectLiteforAndroid.iml
+.idea
+build
+local.properties
